@@ -21,6 +21,8 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 					}
 }
 
+//I am sorry actually I hate php
+
 ?>
 
 
